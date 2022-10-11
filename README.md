@@ -29,6 +29,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devaffan&show_icons=true&locale=en&layout=compact" alt="devaffan" /></p>
 <br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devaffan&show_icons=true&locale=en" alt="devaffan" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=theabbie&show_icons=true&include_all_commits=true&theme=radical" alt="TheAbbie's github stats" />
 <br />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devaffan&" alt="devaffan" /></p>
 <br />

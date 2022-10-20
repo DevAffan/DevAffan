@@ -1,14 +1,8 @@
+[![@affan_ali's Holopin board](https://holopin.me/affan_ali)](https://holopin.io/@affan_ali)
 <h1 align="center">Hi 👋, I'm Affan Ali</h1>
 <h3 align="center">Full Stack Web App Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devaffan&label=Profile%20views&color=0e75b6&style=flat&theme=radical" alt="devaffan" /> </p>
-
-<div align="center">
-  <a href=""><img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkNmZycXowMTgxMDltaGFleGpmczRwIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75"  height="200px" width="200px"/></a>
-  <a href=""><img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkODlvaTAwMDE3MDlpZjdsdWxhNHV5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" height="200px" width="200px"/></a>
-  <a href=""><img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHRrZnAwMDMyMDlqbmtxZTF3dzVhIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" height="200px" width="200px"/></a>
-  <a href=""><img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHVrb3MwMDk0MDlqbnVuaGRhcDd3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" height="200px" width="200px"/></a>
-</div>
 
 - 🔭 I’m currently working on [Pie Forms](https://pieforms.com/)
 

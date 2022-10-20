@@ -3,6 +3,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devaffan&label=Profile%20views&color=0e75b6&style=flat&theme=radical" alt="devaffan" /> </p>
 
+<div align="center">
+  <a href=""><img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkNmZycXowMTgxMDltaGFleGpmczRwIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75"  height="200px" width="200px"/></a>
+  <a href=""><img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkODlvaTAwMDE3MDlpZjdsdWxhNHV5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" height="200px" width="200px"/></a>
+  <a href=""><img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHRrZnAwMDMyMDlqbmtxZTF3dzVhIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" height="200px" width="200px"/></a>
+  <a href=""><img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHVrb3MwMDk0MDlqbnVuaGRhcDd3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" height="200px" width="200px"/></a>
+</div>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devaffan" alt="devaffan" /></a> </p>
 
 - 🔭 I’m currently working on [Pie Forms](https://pieforms.com/)
@@ -29,7 +36,7 @@
 
 <h2 align="center"> ⚙️ GitHub Analytics </h2>
   
-<table>
+<table align="center">
   <tr>
 <td><img height="180px" src="https://github-readme-stats.vercel.app/api?username=devaffan&show_icons=true&theme=dark" />
     <td><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaffan&layout=compact&theme=dark" /></td>

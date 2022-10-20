@@ -10,8 +10,6 @@
   <a href=""><img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHVrb3MwMDk0MDlqbnVuaGRhcDd3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" height="200px" width="200px"/></a>
 </div>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devaffan" alt="devaffan" /></a> </p>
-
 - 🔭 I’m currently working on [Pie Forms](https://pieforms.com/)
 
 - 🌱 I’m currently learning **Advanced plugin Development , MERN Stack , AWS**

@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences -> **Currently working as a Full Stack Developer @GenetechSolutions , i am a part of product team as a developer where i handle and develop products.**
 
-<h2 align="center"> ⚙️ Connect with me:</h2>
+<h2 align="center"> ⚙️ Connect with Me:</h2>
 <p align="center">
 <a href="https://dev.to/devaffan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devaffan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/affan-ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="affan-ali" height="30" width="40" /></a>

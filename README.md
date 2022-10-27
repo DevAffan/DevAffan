@@ -1,6 +1,6 @@
 [![@affan_ali's Holopin board](https://holopin.me/affan_ali)](https://holopin.io/@affan_ali)
 <h1 align="center">Hi 👋, I'm Affan Ali</h1>
-<h3 align="center">Full Stack Web App Developer</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devaffan&label=Profile%20views&color=0e75b6&style=flat&theme=radical" alt="devaffan" /> </p>
 

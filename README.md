@@ -4,15 +4,15 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devaffan&label=Profile%20views&color=0e75b6&style=flat&theme=radical" alt="devaffan" /> </p>
 
-- 🔭 I’m currently working on [Pie Forms](https://pieforms.com/)
+- 🔭 I’m currently working on Test Driven Development
 
-- 🌱 I’m currently learning **Advanced plugin Development , MERN Stack , AWS**
+- 🌱 I’m currently learning **Advanced plugin Development, MERN Stack, AWS**
 
-- 💬 Ask me about **Core PHP , Laravel ,Plugins Development , Addons, React**
+- 💬 Ask me about **Core PHP, Laravel, Plugins Development, Addons, React**
 
 - 📫 How to reach me **affanali577@gmail.com**
 
-- 📄 Know about my experiences -> **Currently working as a Full Stack Developer @GenetechSolutions , i am a part of product team as a developer where i handle and develop products.**
+- 📄 Know about my experiences -> **I currently work as a Full Stack Developer at GenetechSolutions, primarily focusing on product development and research within the GETLab (Genetech Emerging Tech Lab). My role involves handling and developing products, as well as exploring advanced technologies and coding approaches.**
 
 <h2 align="center"> ⚙️ Connect with Me:</h2>
 <p align="center">

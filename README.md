@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on Test Driven Development
 
-- 🌱 I’m currently learning **Advanced plugin Development, MERN Stack, AWS**
+- 🌱 I’m currently learning **Advanced plugin Development, MERN Stack, TDD**
 
-- 💬 Ask me about **Core PHP, Laravel, Plugins Development, Addons, React**
+- 💬 Ask me about **Core PHP, Laravel, Plugins Development, Addons, React, TDD, APIs**
 
 - 📫 How to reach me **affanali577@gmail.com**
 
-- 📄 Know about my experiences -> **I currently work as a Full Stack Developer at GenetechSolutions, primarily focusing on product development and research within the GETLab (Genetech Emerging Tech Lab). My role involves handling and developing products, as well as exploring advanced technologies and coding approaches.**
+- 📄 Know about my experiences -> **I currently work as a Full Stack Developer at GenetechSolutions, primarily focusing on product development and research within the GETLab (Genetech Emerging Tech Lab). My role involves handling and developing products and exploring advanced technologies and coding approaches.**
 
 <h2 align="center"> ⚙️ Connect with Me:</h2>
 <p align="center">
